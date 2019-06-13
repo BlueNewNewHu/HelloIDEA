@@ -11,4 +11,6 @@ object HelloGithub extends App {
   println("z = x ^ 2 + y",z)
   //make some conflicts
   println("try to solve conflicts!!!")
+  //now make a conflict
+  println("hahaha i made a conflict!!!bate me???")
 }
