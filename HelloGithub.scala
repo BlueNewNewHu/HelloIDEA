@@ -9,4 +9,6 @@ object HelloGithub extends App {
   val y = 76
   val z:Int = Math.pow(x,2).toInt + y
   println("z = x ^ 2 + y",z)
+  //make some conflicts
+  println("try to solve conflicts!!!")
 }
